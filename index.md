@@ -21,8 +21,11 @@ nav_order: 1
  </iframe>
 </div>
 
+# Then end goal of the workshop is to produce an interactive webmap like this!
+* This map shows all known of police involved killings in Canada between 2000 & 2017
+* Webmapping is a powerful tool that can be used to promote social justice
 
-<a href="TestMap.html" target="_blank">View slides in new tab</a>
+<a href="TestMap.html" target="_blank">View map in new tab</a>
 
 <div style="overflow: hidden;
   padding-top: 56.25%;
